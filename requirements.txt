@@ -1,0 +1,7 @@
+pandas==0.22.0
+matplotlib==1.5.1
+numpy==1.11.3
+keras==2.1.5
+scipy==1.0.1
+tqdm==4.20.0
+vis==0.0.5
